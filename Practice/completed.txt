@@ -1,2 +1,11 @@
 Easy 5
   4. Letter Swap
+
+Easy 8
+  8. Double Char (pt 2)
+
+Easy 9
+  9. Grade book
+
+Debugging
+  7. Neutralizer
